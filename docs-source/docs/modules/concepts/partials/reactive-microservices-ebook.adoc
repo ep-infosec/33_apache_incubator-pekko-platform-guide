@@ -1,0 +1,5 @@
+:page-partial:
+
+include::partial$include.adoc[]
+
+NOTE: The following is an excerpt from {reactive-microservices-ebook}[*Reactive Microservices Architecture: Design Principles For Distributed Systems* — By Jonas Bonér {tab-icon}, window="tab"].

@@ -1,0 +1,6 @@
+= How to ...
+:partial-page:
+
+include::partial$include.adoc[]
+
+include::partial$listing.adoc[]
